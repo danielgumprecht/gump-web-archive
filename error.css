@@ -1,0 +1,33 @@
+* {
+    margin: unset;
+    padding: unset;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #000000;
+    height: 100%;
+    width: 100%;
+}
+
+h1, p, a {
+    color: #ffffff;
+    font-family: monospace;
+    padding-bottom: 6pt;
+}
+
+#table {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+#table-cell {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
