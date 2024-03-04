@@ -13,6 +13,8 @@ a {
 }
 
 main {
+  margin-top: 55px;
+  padding-top: 10px;
   padding-bottom: 20px;
   padding-left: 15%;
   padding-right: 15%;
@@ -42,7 +44,7 @@ body nav {
   overflow: hidden;
   background-color: white;
   padding: 10px;
-  top: 0;
+  top: 0px;
   width: 100%;
   position: fixed;
 }
@@ -78,7 +80,11 @@ body nav div a.active {
   color: white;
 }
 
-body div table {
+body footer {
+  padding: 50px;
+}
+
+body footer table {
   width: 100%;
   table-layout: fixed
 }
